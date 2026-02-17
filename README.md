@@ -1,1 +1,14 @@
-# ai-news-automation
+# AI 뉴스 자동화 (AI News Automation)
+
+## 프로젝트 진행 로그
+
+### 1. AI 뉴스 자동화 시작
+- AI 관련 최신 소식을 자동으로 수집하고 요약하는 프로젝트
+
+### 2. AI 뉴스 자동화를 위한 워크플로우 생성 (Gemini 사용)
+- **시도**: 제미나이(Gemini)를 통해 PPT 형태의 기획안 요청
+- **실행**: 파이썬(make_ppt.py)을 활용하여 PPT 파일 자동 생성
+- **평가**: 결과물(AI_News_Automation_Plan.pptx)이 디자인 및 구성 면에서 만족스럽지 못함
+
+### 3. 젠스파크 AI (Genspark AI) 활용 (진행 중)
+- **목표**: 젠스파크 AI를 통해 블로그 형태의 보고서 요청 및 분석 시도
